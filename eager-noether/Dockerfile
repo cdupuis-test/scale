@@ -1,1 +1,1 @@
-FROM python:3.6-slim-stretch
+FROM python:3.6-slim-stretch@sha256:446661c314b8ada80cc7f53f58c679967a239b3d0995ebd7ce0312b287716dfd
