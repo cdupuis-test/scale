@@ -1,1 +1,1 @@
-FROM swift:5.2.5
+FROM swift:5.2.5@sha256:f4a6dec869f206c85e6f85e89557a159ebe18289ed5a75e832bd6b70c9e48b13
