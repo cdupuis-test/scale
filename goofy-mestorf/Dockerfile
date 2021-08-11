@@ -1,1 +1,1 @@
-FROM grafana/grafana:7.5.7
+FROM grafana/grafana:7.5.7@sha256:4e5835bcfd55cf72563a06932f10c75d9d92a0e1334a4c83eaa9c5b897370b25
