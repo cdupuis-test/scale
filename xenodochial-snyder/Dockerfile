@@ -1,1 +1,1 @@
-FROM mariadb:latest
+FROM mariadb:latest@sha256:52c8d34497fbf8f7ab70369e48c90a82298ed44d95e8174a5e2da18baa9391ae
