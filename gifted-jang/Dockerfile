@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows:1809
+FROM mcr.microsoft.com/windows:1809@sha256:7b76c2361e962dc49237cdddfeae53f6f5a185ecefa1ba069d98d127a8f818ca
