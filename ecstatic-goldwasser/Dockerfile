@@ -1,1 +1,1 @@
-FROM launcher.gcr.io/google/ubuntu16_04
+FROM launcher.gcr.io/google/ubuntu16_04:latest@sha256:281e570b1c254121ef9db4698554084a809d120aebfe14486c1014d0b6d4d3f5
