@@ -1,1 +1,1 @@
-FROM yobasystems/alpine:3.11.6-amd64 as runtime
+FROM yobasystems/alpine:3.11.6-amd64@sha256:ff59c5fdab72a66d4c2e990e1888c5e7338a9becfa6356d824fdd2fb18cbd49b as runtime
