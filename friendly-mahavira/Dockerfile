@@ -1,1 +1,1 @@
-FROM mhart/alpine-node:6.3
+FROM mhart/alpine-node:6.3@sha256:748b93dbddbe2bc8a5c876ad51ed7aab48bfd6d985e6b733e0e82f78f9f13964
