@@ -1,1 +1,1 @@
-FROM centos:6.6
+FROM centos:6.6@sha256:32b80b90ba17ed16e9fa3430a49f53ff6de0d4c76ad8631717a1373d5921fa26
