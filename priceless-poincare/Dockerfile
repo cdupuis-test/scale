@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.5.0
+FROM coredns/coredns:1.5.0@sha256:e83beb5e43f8513fa735e77ffc5859640baea30a882a11cc75c4c3244a737d3c
