@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/mssql/server:2019-CU8-ubuntu-18.04
+FROM mcr.microsoft.com/mssql/server:2019-CU8-ubuntu-18.04@sha256:bf3cc5fb2abfd327c6eeaf2a021869077298511eb6ded5fabd9a1e39ebff7c30
