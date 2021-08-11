@@ -1,1 +1,1 @@
-FROM redis:3.2.4-alpine
+FROM redis:3.2.4-alpine@sha256:e0ac33284bc6e8b392f24ac927996f4798b35ed81353486983b3830e2096a37f
