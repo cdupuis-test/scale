@@ -1,1 +1,1 @@
-FROM cyberark/phusion-ruby-fips:latest
+FROM cyberark/phusion-ruby-fips:latest@sha256:c72a32dd8232cf0b5e10bf20f59bbda0e8ff0609b99fcf0abc88e97e2665f184
