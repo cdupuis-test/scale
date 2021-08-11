@@ -1,1 +1,1 @@
-FROM golang:1.11-alpine AS build
+FROM golang:1.11-alpine@sha256:09e47edb668c2cac8c0bbce113f2f72c97b1555d70546dff569c8b9b27fcebd3 AS build
