@@ -1,1 +1,1 @@
-FROM buildpack-deps:wheezy
+FROM buildpack-deps:wheezy@sha256:6780c8a9b9e1a46ed84d7d4990b4fae37f8d767bcd04990d882175f8fc4181de
