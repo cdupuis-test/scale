@@ -1,1 +1,1 @@
-FROM maven:3.8.1-adoptopenjdk-11 as build
+FROM maven:3.8.1-adoptopenjdk-11@sha256:143ff7942b5ef5a004252405a31fa2813dfa438f08494fad1757029de5f64082 as build
