@@ -1,1 +1,1 @@
-FROM golang:1.13.5-alpine3.10 AS base
+FROM golang:1.13.5-alpine3.10@sha256:1996d4a5dd509fa350b806207ce10fcec7d036f13170d5e3a0714356b4de0178 AS base
