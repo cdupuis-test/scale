@@ -1,1 +1,1 @@
-FROM ruby:2.6.3-alpine AS builder
+FROM ruby:2.6.3-alpine@sha256:a546d6c5f530bbcc2d41fbf0da21d94da9f70cba2997c82b57b06ea6a2ef155d AS builder
