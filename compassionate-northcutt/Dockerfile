@@ -1,1 +1,1 @@
-FROM fedora:29 AS build
+FROM fedora:29@sha256:2c20e5bb324735427f8a659e36f4fe14d6955c74c7baa25067418dddbb71d67a AS build
