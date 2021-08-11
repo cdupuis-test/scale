@@ -1,1 +1,1 @@
-FROM grafana/wix-toolset-ci:v3
+FROM grafana/wix-toolset-ci:v3@sha256:7535b5c91d7c50adcae1ad49d95c629e8e3b9fe78e0d0c6f39195d0df44d274b
