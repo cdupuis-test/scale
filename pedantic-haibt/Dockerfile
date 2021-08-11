@@ -1,1 +1,1 @@
-FROM ubuntu:16.04
+FROM ubuntu:16.04@sha256:6a3ac136b6ca623d6a6fa20a7622f098b2fae1ac05f0114386ef439d8ca89a4a
