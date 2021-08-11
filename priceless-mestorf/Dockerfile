@@ -1,1 +1,1 @@
-FROM docker:19.03-rc-dind
+FROM docker:19.03-rc-dind@sha256:4d67d8b04cadaa2da4ee2e8ad45cb872d8ef3a16b4dd04363787b25a8504548e
