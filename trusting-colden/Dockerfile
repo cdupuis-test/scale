@@ -1,1 +1,1 @@
-FROM golang:alpine AS build-env
+FROM golang:alpine@sha256:125b5fbad8200b161d62147f7a38525c97319acf5b44f07e0413199ea749e782 AS build-env
