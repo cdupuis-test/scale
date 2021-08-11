@@ -1,1 +1,1 @@
-FROM ruby:2.7.1-slim
+FROM ruby:2.7.1-slim@sha256:ff48e3b5870c4472172b1e9ddfba36ffda399f8378b70d22125b9c31cc7edb54
