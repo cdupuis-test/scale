@@ -1,1 +1,1 @@
-FROM phusion/baseimage:0.11
+FROM phusion/baseimage:0.11@sha256:6ba22a31a809de669243b79f982f7b2df733ead1ec45becff401b4d5d79150bb
