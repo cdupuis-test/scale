@@ -1,1 +1,1 @@
-FROM websphere-liberty:20.0.0.6-full-java8-ibmjava
+FROM websphere-liberty:20.0.0.6-full-java8-ibmjava@sha256:57fc2ac9b00c23f89fe3e3c9208cc6183bbd93d7425849436df7f2aa56144021
