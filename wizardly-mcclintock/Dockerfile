@@ -1,1 +1,1 @@
-FROM registry.fedoraproject.org/fedora-minimal
+FROM registry.fedoraproject.org/fedora-minimal:latest@sha256:ea229b8d92de5f20c87ff20890b1f6b27121308e018780b5721bb743f328df7e
