@@ -1,1 +1,1 @@
-FROM python:3.8.1-slim-buster
+FROM python:3.8.1-slim-buster@sha256:73f3903470a6e55202a6bb989c23b047487eb1728feba655410076da24106838
