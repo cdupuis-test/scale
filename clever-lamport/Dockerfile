@@ -1,1 +1,1 @@
-FROM ubuntu:rolling
+FROM ubuntu:rolling@sha256:0d6c1371da7b3f53eab63fa060b375339d883eb6e67ab413ebf77f9eadd6700e
