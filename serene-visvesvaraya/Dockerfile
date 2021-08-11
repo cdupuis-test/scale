@@ -1,1 +1,1 @@
-FROM php:7.4-cli-alpine AS phing
+FROM php:7.4-cli-alpine@sha256:bf1ce9e99834c8b301e664e60a2faaa566f064e7a15578fdf43aabb2a93d7d18 AS phing
