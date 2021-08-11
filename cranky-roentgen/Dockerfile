@@ -1,1 +1,1 @@
-FROM grafana/agent:v0.6.1
+FROM grafana/agent:v0.6.1@sha256:85ffd613caf8f55fe5586f9608573644c0f327e0a7af02577e8e80474ae687c9
