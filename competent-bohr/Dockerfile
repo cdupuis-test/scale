@@ -1,1 +1,1 @@
-FROM mozillasecurity/grizzly:latest
+FROM mozillasecurity/grizzly:latest@sha256:df683e1d53a08e9e29bea550fd7f0ba22b7e3629a9dd857d433fa3aca260bb27
