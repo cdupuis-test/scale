@@ -1,1 +1,1 @@
-FROM golang:1.13.6-alpine AS builder
+FROM golang:1.13.6-alpine@sha256:bfcd0abe53aeb9adba3c8417d00c652fddcc995347e73cf0e83aa9da2f2c3830 AS builder
