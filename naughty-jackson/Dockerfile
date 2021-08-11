@@ -1,1 +1,1 @@
-FROM php:7.2
+FROM php:7.2@sha256:42ffbc0798e4449bbd1e14fc4dcb87774aa1ad1900a09ef6a965bc0880aa2161
