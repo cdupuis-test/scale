@@ -1,1 +1,1 @@
-FROM google/cadvisor:v0.26.1
+FROM google/cadvisor:v0.26.1@sha256:e26667cecd359ef2b5f5aa86b279146438e4f427eea5eeffc7de8d190cf7b770
