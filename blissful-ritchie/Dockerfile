@@ -1,1 +1,1 @@
-FROM fedora:28
+FROM fedora:28@sha256:5593a1e2fe65db0e199faca916b5ce7494a9f0e29b7be9f529fb69d1e8ef42d1
