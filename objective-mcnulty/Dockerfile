@@ -1,1 +1,1 @@
-FROM ruby:2.7.2-alpine3.12
+FROM ruby:2.7.2-alpine3.12@sha256:0927b389edc7ac00800902b921d52eb1f7b3bc38b19f1c5ee03aef337444981c
