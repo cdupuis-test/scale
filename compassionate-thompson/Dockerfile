@@ -1,1 +1,1 @@
-FROM ansibleplaybookbundle/apb-base
+FROM ansibleplaybookbundle/apb-base:latest@sha256:783f7f4c1331db61c396c3c1e5a4b8022fb9f8a3590d052eae539f97c6a63cc2
