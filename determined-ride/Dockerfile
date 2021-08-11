@@ -1,1 +1,1 @@
-FROM arm64v8/eclipse-mosquitto:1.6.12
+FROM arm64v8/eclipse-mosquitto:1.6.12@sha256:685f9710b3d1e26766a57c0527532d8785fff85688648e7e3e3781aeeb23c33e
