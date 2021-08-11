@@ -1,1 +1,1 @@
-FROM cimg/go:1.15.5
+FROM cimg/go:1.15.5@sha256:ccd32afd3a78f9c0dc6a9bf65b74825bb13fb9b6937f30987bb3db8233122ce9
