@@ -1,1 +1,1 @@
-FROM circleci/python:3.9.2
+FROM circleci/python:3.9.2@sha256:3695a302595f49b38da676d42457ea799edd79681278198ba965a3d785d3f494
