@@ -1,1 +1,1 @@
-FROM hayd/alpine-deno:1.0.0-rc2
+FROM hayd/alpine-deno:1.0.0-rc2@sha256:afabec0749e708106934b1929283653cebc529ec44c74d7b836139e601697e92
