@@ -1,1 +1,1 @@
-FROM emscripten/emsdk:2.0.12 AS base
+FROM emscripten/emsdk:2.0.12@sha256:5ae5b73b1d1858df71335b3f4cb2c5645a40dc23eebf7c16d533d9279cfa5fd9 AS base
