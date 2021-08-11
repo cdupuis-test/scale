@@ -1,1 +1,1 @@
-FROM devchef/elixir:latest
+FROM devchef/elixir:latest@sha256:acb0d85a16b3c9c9991e1919ebdccff6a75e697ec6ef1c2abd20ff4d2d75f86c
