@@ -1,1 +1,1 @@
-FROM node:15-alpine3.12 as node
+FROM node:15-alpine3.12@sha256:ea7d1f0a4562dcf21b927b20cb296c825cc7b13d86aa828dd40692ae66027e35 as node
