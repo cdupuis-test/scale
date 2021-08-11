@@ -1,1 +1,1 @@
-FROM ubuntu-upstart
+FROM ubuntu-upstart:latest@sha256:597dfb1868012dcd04a705572dbc1542cb7598bce0eaa1c2656eb3acfc8b51d2
