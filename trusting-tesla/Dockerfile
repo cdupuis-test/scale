@@ -1,1 +1,1 @@
-FROM adoptopenjdk/openjdk11:jdk-11.0.11_9-debianslim-slim
+FROM adoptopenjdk/openjdk11:jdk-11.0.11_9-debianslim-slim@sha256:5ae6d3d8ea4d78c35814ac5363e602b689104ae9226a60a6fbfffb07b4f5e033
