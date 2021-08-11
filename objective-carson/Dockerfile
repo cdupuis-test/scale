@@ -1,1 +1,1 @@
-FROM google/cloud-sdk:latest
+FROM google/cloud-sdk:latest@sha256:6d8d343f73b5250d6334cd0d08366fe5a26b99a21cc553570f9687f4ec14be68
