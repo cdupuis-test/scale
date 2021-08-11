@@ -1,1 +1,1 @@
-FROM secrethub/cli:0.40.0
+FROM secrethub/cli:0.40.0@sha256:4a81b36f5dcf05a0118a296f727676be9f9cb57d81f1df6920bab2671642e955
