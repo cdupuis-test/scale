@@ -1,1 +1,1 @@
-FROM google/dart-runtime
+FROM google/dart-runtime:latest@sha256:c95307c8683fc6e54f8308daa5be4929c7c97c4e202982290a1be08ea25adfae
