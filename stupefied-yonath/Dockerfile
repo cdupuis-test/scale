@@ -1,1 +1,1 @@
-FROM mozillasecurity/ci-node-12:latest
+FROM mozillasecurity/ci-node-12:latest@sha256:52428f97e8e671b83fda9789d3a17e2b645a7427547e167105ed276a393f8fe6
