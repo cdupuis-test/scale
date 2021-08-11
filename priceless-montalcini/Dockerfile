@@ -1,1 +1,1 @@
-FROM cyb3rward0g/jupyter-base:0.0.3
+FROM cyb3rward0g/jupyter-base:0.0.3@sha256:7952ff30ecdcd8446fe979e2c664d03a13ce524eb5227cc638c685f268a11a19
