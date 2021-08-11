@@ -1,1 +1,1 @@
-FROM maven:3.8.1-adoptopenjdk-8
+FROM maven:3.8.1-adoptopenjdk-8@sha256:16a73612981db1e1f12d990f7d6fb36ac631b98a5ef135da341d85664300f1f0
