@@ -1,1 +1,1 @@
-FROM arm64v8/node:12.13.0-alpine as runtime
+FROM arm64v8/node:12.13.0-alpine@sha256:04858a247120a6d55096b181522ee9dd26137573d8073b7799328bb4ca6f0a8c as runtime
