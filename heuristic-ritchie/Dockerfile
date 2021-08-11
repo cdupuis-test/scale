@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base:latest
+FROM gcr.io/distroless/base:latest@sha256:97f9cbf81590c7dd878d7e10c20116fa7488c2fb91b3c839df1ebdcb61ab13ca
