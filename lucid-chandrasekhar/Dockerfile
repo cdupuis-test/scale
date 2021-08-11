@@ -1,1 +1,1 @@
-FROM adoptopenjdk/openjdk8:jdk8u292-b10-debianslim-slim
+FROM adoptopenjdk/openjdk8:jdk8u292-b10-debianslim-slim@sha256:1658ec610f4d9c8a49533d71e01bbffed041b6293b0f00db5308e79c074b4fb9
