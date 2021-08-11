@@ -1,1 +1,1 @@
-FROM tensorflow/tensorflow:1.12.0-rc2-gpu-py3
+FROM tensorflow/tensorflow:1.12.0-rc2-gpu-py3@sha256:f5e76b2fe399710ba957b88239c7cf1c30c664a6f7f13870681a6f7adb4992cc
