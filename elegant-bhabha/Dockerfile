@@ -1,1 +1,1 @@
-FROM node:14.15.1-slim AS js-builder
+FROM node:14.15.1-slim@sha256:c4701b0b2c263e27971bf61742fb501614edc78f1c10ae3be735197e5e16286d AS js-builder
