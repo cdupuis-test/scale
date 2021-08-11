@@ -1,1 +1,1 @@
-FROM cosmintitei/bash-curl
+FROM cosmintitei/bash-curl:latest@sha256:19209e69735077ba7bca01c5ae6f76f5c81ea781cfbe959f43a83e91c8623811
