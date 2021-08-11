@@ -1,1 +1,1 @@
-FROM cyb3rward0g/jupyter-pyspark:0.0.6
+FROM cyb3rward0g/jupyter-pyspark:0.0.6@sha256:d1834e014f2cf60789aa0b7cee503b57b59921daa321fd2884bfb097912dfd8d
