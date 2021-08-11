@@ -1,1 +1,1 @@
-FROM adoptopenjdk/openjdk8:jdk8u292-b10-debian
+FROM adoptopenjdk/openjdk8:jdk8u292-b10-debian@sha256:a0eda0c9b7a6e14b9ee8fa615ff1fff3f7178e0748683f1bbfb6650a5b28036f
