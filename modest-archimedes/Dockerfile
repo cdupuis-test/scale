@@ -1,1 +1,1 @@
-FROM intelowlproject/intelowl_ng:v1.7.0 AS angular-prod-build
+FROM intelowlproject/intelowl_ng:v1.7.0@sha256:8c963be2075aefc2421ddbc95f1b361e747587197310904a79022661f73ffec4 AS angular-prod-build
