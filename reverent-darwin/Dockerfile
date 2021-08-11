@@ -1,1 +1,1 @@
-FROM node:12.19.0-buster-slim
+FROM node:12.19.0-buster-slim@sha256:abbfaad7758de248460d764e3b7177b2d0abc8c1b26c2895dec8afad999c01c8
