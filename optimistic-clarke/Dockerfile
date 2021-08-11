@@ -1,1 +1,1 @@
-FROM goboring/golang:1.15.6b5 as authenticator-client-builder
+FROM goboring/golang:1.15.6b5@sha256:d67bb31b72ed923cff952ecbb8944d2476151aad1d2521858e793bc6c3ddbe38 as authenticator-client-builder
