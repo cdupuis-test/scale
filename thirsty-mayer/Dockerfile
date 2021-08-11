@@ -1,1 +1,1 @@
-FROM openjdk:10.0-jre-slim
+FROM openjdk:10.0-jre-slim@sha256:256f5b4dd532b43336da48b34d146ae5fee266908836e55328b3788e84af2253
