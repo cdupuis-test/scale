@@ -1,1 +1,1 @@
-FROM owasp/modsecurity:2
+FROM owasp/modsecurity:2@sha256:9f272b6298fad73e85b21c668ea879cc9520788929693a36b7eecda9704f098d
