@@ -1,1 +1,1 @@
-FROM phusion/baseimage:master-amd64
+FROM phusion/baseimage:master-amd64@sha256:2dc12cb83c2a6585097c434a25fc32abee38cfdc3c6389a910b42ae9d09dac39
