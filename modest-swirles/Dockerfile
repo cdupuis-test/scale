@@ -1,1 +1,1 @@
-FROM mist/logstash:master
+FROM mist/logstash:master@sha256:2411b4aac7715530f9552534ee92c3b257f3aaf3e138465a297569a5a921b301
