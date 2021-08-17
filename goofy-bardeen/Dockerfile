@@ -1,1 +1,1 @@
-FROM openjdk:8
+FROM openjdk:8@sha256:15411213a403b5a37e76bd567f0cc317d8b534bf4de93e2c744447cb2d5db2ff
