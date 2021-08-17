@@ -1,1 +1,1 @@
-FROM cypress/included:4.1.0
+FROM cypress/included:4.1.0@sha256:9230a527d1ffc5da659d0b3f547062e1d666b82801cee2660696f62801a1fc5c
