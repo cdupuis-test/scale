@@ -1,1 +1,1 @@
-FROM docker.io/python:3-slim-buster
+FROM python:3-slim-buster@sha256:28bed4c51c3b531159d8affc0225701edb16a7deacfdfdfb220a944405c39314
