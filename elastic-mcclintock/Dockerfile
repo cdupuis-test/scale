@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-marketplace-tools/k8s/deployer_helm/onbuild
+FROM gcr.io/cloud-marketplace-tools/k8s/deployer_helm/onbuild:latest@sha256:235e805250e7c49a3af74d3c74d2bcc7e6c8d38edba2acb645c3e342906d918f
