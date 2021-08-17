@@ -1,1 +1,1 @@
-FROM python:3.8-alpine as builder
+FROM python:3.8-alpine@sha256:77bf982037f934a692780626f7d52cbc5dcf6eb65ded24e2440210e508ded888 as builder
