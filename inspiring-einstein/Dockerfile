@@ -1,1 +1,1 @@
-FROM debian:stretch-slim AS influx
+FROM debian:stretch-slim@sha256:a81a7b0abec981c65f0d0bd155bab319e738bf83635a99057079cdc8bd905368 AS influx
