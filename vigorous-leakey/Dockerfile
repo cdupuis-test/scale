@@ -1,1 +1,1 @@
-FROM php:7.4-fpm-alpine as laravel
+FROM php:7.4-fpm-alpine@sha256:c51ff6f91cb21aad0df40da992f9b8bb47610389196c5d6a99ffda9d315e11a7 as laravel
