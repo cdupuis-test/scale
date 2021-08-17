@@ -1,1 +1,1 @@
-FROM debian:sid
+FROM debian:sid@sha256:8e24c0a2fa1125796db73c03bd38ec36b9716796a248494917f446e09ee4ac74
