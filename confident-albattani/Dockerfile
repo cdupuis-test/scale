@@ -1,1 +1,1 @@
-FROM jboss/base-jdk:8
+FROM jboss/base-jdk:8@sha256:4ce172c6e0874a5e1b38a90dd6eda148f3e2fa1d196cba95e5a32dc0809286c8
