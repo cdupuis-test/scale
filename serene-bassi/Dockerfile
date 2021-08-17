@@ -1,1 +1,1 @@
-FROM mongo
+FROM mongo:latest@sha256:54d24682d00278f64bf21ff62b7ee62b59dae50f65139831a884b345922b0f8a
