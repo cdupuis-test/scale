@@ -1,1 +1,1 @@
-FROM node:lts as builder
+FROM node:lts@sha256:adbbb61dab70ea6e5a6c2ad7fba60e4d1047ba98ad1afcd631c15553163b22b7 as builder
