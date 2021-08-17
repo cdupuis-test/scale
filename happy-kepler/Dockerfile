@@ -1,1 +1,1 @@
-FROM composer:1.9 AS composer
+FROM composer:1.9@sha256:3788b2e8abbae045c2d9884b766cb91a7f294816b24d2b8965ee16ca99172ece AS composer
