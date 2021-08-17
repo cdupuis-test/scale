@@ -1,1 +1,1 @@
-FROM python:3.7 as build
+FROM python:3.7@sha256:d0ca61b8a2cc5dfd91c6fb7d82af998b29be76249d5535960b95ed0a99f6d456 as build
