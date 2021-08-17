@@ -1,1 +1,1 @@
-FROM nginx:1.13
+FROM nginx:1.13@sha256:b1d09e9718890e6ebbbd2bc319ef1611559e30ce1b6f56b2e3b479d9da51dc35
