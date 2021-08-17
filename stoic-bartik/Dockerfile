@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-builders/docker
+FROM gcr.io/cloud-builders/docker:latest@sha256:11a890781d72fabee8b6b381a9bfc86654681977c535b480c40a9303da405815
