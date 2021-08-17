@@ -1,1 +1,1 @@
-FROM ubuntu:20.04 as build-env
+FROM ubuntu:20.04@sha256:82becede498899ec668628e7cb0ad87b6e1c371cb8a1e597d83a47fac21d6af3 as build-env
