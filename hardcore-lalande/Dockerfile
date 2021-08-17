@@ -1,1 +1,1 @@
-FROM golang:buster
+FROM golang:buster@sha256:8bac7d361e96d7847e2e293de88227bedf6490ec425ce43c7d33df2cacdecef4
