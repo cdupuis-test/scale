@@ -1,1 +1,1 @@
-FROM node:13.13-alpine
+FROM node:13.13-alpine@sha256:486dde68e0f070091faca4cee18720e84fd10379b7b32302e67b960a9566472e
