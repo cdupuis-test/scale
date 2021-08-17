@@ -1,1 +1,1 @@
-FROM mdnwebdocs/kuma_base:latest
+FROM mdnwebdocs/kuma_base:latest@sha256:733262de86c2be4066ea6671ee275be903854479541057d666878b8c4a83721b
