@@ -1,1 +1,1 @@
-FROM azul/zulu-openjdk-alpine:11-jre
+FROM azul/zulu-openjdk-alpine:11-jre@sha256:1611d63b7d2c76fc489cca178816636cfb5a549edd881f2e47a76a092362b311
