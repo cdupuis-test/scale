@@ -1,1 +1,1 @@
-FROM hello-world
+FROM hello-world:latest@sha256:0fe98d7debd9049c50b597ef1f85b7c1e8cc81f59c8d623fcb2250e8bec85b38
