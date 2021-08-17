@@ -1,1 +1,1 @@
-FROM devchef/chefdk:latest
+FROM devchef/chefdk:latest@sha256:dc616564da90f89c1754f6458eb19739c0f6f4dd0e21c125a8137e1066ea998c
