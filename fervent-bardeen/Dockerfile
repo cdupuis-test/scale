@@ -1,1 +1,1 @@
-FROM debian:stretch
+FROM debian:stretch@sha256:0ed9bd85836141af791835584b3931a384561dbc449fa0ae4a8ca79192c3b52c
