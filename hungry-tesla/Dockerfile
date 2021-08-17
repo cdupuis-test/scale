@@ -1,1 +1,1 @@
-FROM openjdk:8-slim as builder
+FROM openjdk:8-slim@sha256:4a81391f07542a02d6de8ba13f03813bd72351c6bc57aa1c1a8bce0cc6221a33 as builder
