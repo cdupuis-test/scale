@@ -1,1 +1,1 @@
-FROM circleci/python:3.7.4-stretch
+FROM circleci/python:3.7.4-stretch@sha256:2bb85079ae4e00c0422b645e7af1be7ad357b62b86badc64074976da8eeadd79
