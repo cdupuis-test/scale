@@ -1,1 +1,1 @@
-FROM node:12.18.1-slim
+FROM node:12.18.1-slim@sha256:0158aaaa87e76a3d05181a6f1dfeee437afc773771f9a3bb86400a2d3dd164c4
