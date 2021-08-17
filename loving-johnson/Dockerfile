@@ -1,1 +1,1 @@
-FROM ibmjava:sfj-alpine
+FROM ibmjava:sfj-alpine@sha256:c88f847ef2c5b73f1f6e5f6b9add320b20334f15f45aa01690c55844f4b4bec9
