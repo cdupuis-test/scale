@@ -1,1 +1,1 @@
-FROM returntocorp/ocaml:alpine-2021-06-23 as build-semgrep-core
+FROM returntocorp/ocaml:alpine-2021-06-23@sha256:dff246481300c8ba8039998f322373b80df931855be4a1baeff3da27dc19dda9 as build-semgrep-core
