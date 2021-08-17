@@ -1,1 +1,1 @@
-FROM minio/minio:latest
+FROM minio/minio:latest@sha256:9daf9c4b2be5b19b8bf40d3cc9a6026b94d9b31582deb7365914b27c09e28573
