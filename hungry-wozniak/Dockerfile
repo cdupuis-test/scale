@@ -1,1 +1,1 @@
-FROM tomcat:jdk16-openjdk
+FROM tomcat:jdk16-openjdk@sha256:8f0aa3e62ca4f84a4bf6bfe4ca78a97ba95dc33e739b858ee66d80432ba8c3cc
