@@ -1,1 +1,1 @@
-FROM debian:buster-slim as php-build
+FROM debian:buster-slim@sha256:1b138699146ca36569f2f2098c8e22c56756b5776f7668a6a294f81a2bef2a2d as php-build
