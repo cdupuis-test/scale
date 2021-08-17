@@ -1,1 +1,1 @@
-FROM gbecedillas/pyalgotrade:0.20-py27
+FROM gbecedillas/pyalgotrade:0.20-py27@sha256:b39b3fb5f064bf4619317ca0ebcbb86dede60a4be42dded0884becbd99567709
