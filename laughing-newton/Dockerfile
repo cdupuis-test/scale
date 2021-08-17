@@ -1,1 +1,1 @@
-FROM node:latest
+FROM node:latest@sha256:678cad87833f51615213547acb719e951569816db7bb0e2bb7da10cbfccc976c
