@@ -1,1 +1,1 @@
-FROM grafana/grafana
+FROM grafana/grafana:latest@sha256:c328587322a83c38384cb3799387c3eb3c5b96d31ca5579439400694868f5007
