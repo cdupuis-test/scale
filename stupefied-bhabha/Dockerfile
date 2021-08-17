@@ -1,1 +1,1 @@
-FROM jmferrer/apache2-reverse-proxy:latest
+FROM jmferrer/apache2-reverse-proxy:latest@sha256:cd958b3505d180aa6f8b8491be8a9abdd1d8b0fdd2c1b382912f5d52a0df9d83
