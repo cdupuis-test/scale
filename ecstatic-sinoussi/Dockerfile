@@ -1,1 +1,1 @@
-FROM envoyproxy/envoy-dev:latest
+FROM envoyproxy/envoy-dev:latest@sha256:b121aac6c1c4a26f65c58263ea796edc3adac644f3df0b0f26588d277a3e6229
