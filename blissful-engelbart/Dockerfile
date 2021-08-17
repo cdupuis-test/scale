@@ -1,1 +1,1 @@
-FROM perl:5.32.1
+FROM perl:5.32.1@sha256:f808cee6ca45a7dc7cf6d501f05a985a32d6d4c3aa878a347512de7e4298c994
