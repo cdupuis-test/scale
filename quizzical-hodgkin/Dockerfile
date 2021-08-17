@@ -1,1 +1,1 @@
-FROM maven:3-jdk-8 AS build
+FROM maven:3-jdk-8@sha256:f359a0e927a13bc3567ec11b88b7ecb44ca64760008df8fc71b789319e43dbbb AS build
