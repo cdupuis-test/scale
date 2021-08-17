@@ -1,1 +1,1 @@
-FROM adoptopenjdk:8-jre
+FROM adoptopenjdk:8-jre@sha256:aa98d838b8be2570c666e60b97b3d894441463cdb6d74a96a19ccc5f3ed5446c
