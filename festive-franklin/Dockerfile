@@ -1,1 +1,1 @@
-FROM python:3.8-slim AS build-env
+FROM python:3.8-slim@sha256:ffb6539b4b233743c62170989024c6f56dcefa69a83c4bd9710d4264b19a98c0 AS build-env
