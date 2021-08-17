@@ -1,1 +1,1 @@
-FROM debian:stable-slim
+FROM debian:stable-slim@sha256:457715c656bf1b14ae3790853c1a4bde13a7e740c510b9c029d38012be78d8c6
