@@ -1,1 +1,1 @@
-FROM python:3.9.4-alpine3.13 as builder
+FROM python:3.9.4-alpine3.13@sha256:419a7502c95b49946fbdd8228b32243597d9e9f191ddfe5468a3b9b3fe64051d as builder
