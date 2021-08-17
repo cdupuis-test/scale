@@ -1,1 +1,1 @@
-FROM buildkite/puppeteer:v1.15.0
+FROM buildkite/puppeteer:v1.15.0@sha256:0aeeef12cc7872a012f7d1be5d48bd7a208ef492792b094db8e6f1c5774538df
