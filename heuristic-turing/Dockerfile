@@ -1,1 +1,1 @@
-FROM node:14 AS build
+FROM node:14@sha256:adbbb61dab70ea6e5a6c2ad7fba60e4d1047ba98ad1afcd631c15553163b22b7 AS build
