@@ -1,1 +1,1 @@
-FROM arm64v8/node:12.13.0 as base
+FROM arm64v8/node:12.13.0@sha256:b490ee799592a6b5e65a1ece63141766b693b7bdbca3b3993a50fafa9cee6e10 as base
