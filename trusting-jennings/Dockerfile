@@ -1,1 +1,1 @@
-FROM golang:1.15-buster
+FROM golang:1.15-buster@sha256:414340e7bfee1b13c72c59e9b0df5488b83b6a5c99c2d806509304ca7ef71350
