@@ -1,1 +1,1 @@
-FROM cpuguy83/ubuntu
+FROM cpuguy83/ubuntu:latest@sha256:bed9e934ff53d358ecb4ee56e050ee6462862022c4c115c947a4541777ae8166
