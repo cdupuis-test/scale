@@ -1,1 +1,1 @@
-FROM clojure:lein AS builder
+FROM clojure:lein@sha256:98f462c0f46a3e7b7661c8b761904c76fc51146f6c48077c22bd7e1a138a7b7f AS builder
