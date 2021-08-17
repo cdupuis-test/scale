@@ -1,1 +1,1 @@
-FROM geerlingguy/docker-ubuntu2004-ansible
+FROM geerlingguy/docker-ubuntu2004-ansible:latest@sha256:fb458480b4289d6db779cce2ed4a8791706de48040f2ec51c53c1603cb71f145
