@@ -1,1 +1,1 @@
-FROM squidfunk/mkdocs-material
+FROM squidfunk/mkdocs-material:latest@sha256:66f844dce7bc595ba7c65504a06ada34e0c1fe3cf6dc0cf7cea12c8a5d18c407
