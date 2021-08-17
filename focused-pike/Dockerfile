@@ -1,1 +1,1 @@
-FROM docker AS builder
+FROM docker:latest@sha256:ddf0d732dcbc3e2087836e06e50cc97e21bfb002a49c7d0fe767f6c31e01d65f AS builder
