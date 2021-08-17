@@ -1,1 +1,1 @@
-FROM node:15.4.0 as nodeportal
+FROM node:15.4.0@sha256:a76eb778d162f8fd96138d9ca7dbd14b8916c201775a97d2f2aa22e9f13eb105 as nodeportal
