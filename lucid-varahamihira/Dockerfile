@@ -1,1 +1,1 @@
-FROM node:14-buster as nodebuild
+FROM node:14-buster@sha256:801df90f337b1a2b06de92b11aaa539b7257f4eae600117806e4ad352c407553 as nodebuild
