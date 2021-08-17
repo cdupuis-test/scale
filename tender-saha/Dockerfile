@@ -1,1 +1,1 @@
-FROM mist/huproxy:v0-1-0
+FROM mist/huproxy:v0-1-0@sha256:493c30f95afbab9117be9decf901bed4befa9665a4a61600606632e3aef0a8d6
