@@ -1,1 +1,1 @@
-FROM golang:1.12-alpine as build_base
+FROM golang:1.12-alpine@sha256:3f8e3ad3e7c128d29ac3004ac8314967c5ddbfa5bfa7caa59b0de493fc01686a as build_base
