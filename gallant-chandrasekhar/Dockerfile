@@ -1,1 +1,1 @@
-FROM gradle:6.7 as builder
+FROM gradle:6.7@sha256:c883bc30e40adc8ad6a80548bcd7993671635b7df0eae606d2c8478766d96f31 as builder
