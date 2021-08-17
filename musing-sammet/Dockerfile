@@ -1,1 +1,1 @@
-FROM postgres:9.3
+FROM postgres:9.3@sha256:3cd40afb5803762170a1149ade6962fe24d405b3ccf2fe499ff1428635520a17
