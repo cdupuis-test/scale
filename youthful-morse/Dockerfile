@@ -1,1 +1,1 @@
-FROM mozilla/sbt:latest
+FROM mozilla/sbt:latest@sha256:32950ea7d0a87c7547f9ca9134046cb779046277e534fc095a4d13e8d92ecc62
