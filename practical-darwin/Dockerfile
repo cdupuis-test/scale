@@ -1,1 +1,1 @@
-FROM node:6.9.2
+FROM node:6.9.2@sha256:2e95be60faf429d6c97d928c762cb36f1940f4456ce4bd33fbdc34de94a5e043
