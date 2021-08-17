@@ -1,1 +1,1 @@
-FROM mhart/alpine-node:slim-12.13.0 as runtime
+FROM mhart/alpine-node:slim-12.13.0@sha256:f517482f40a0b36c8074a183f531f5ae81086a9dbe8b0de81ae420174e606828 as runtime
