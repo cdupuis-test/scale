@@ -1,1 +1,1 @@
-FROM python:3.7-buster AS build
+FROM python:3.7-buster@sha256:fe1f7c499bc49d897ba4e5f030a7c5e7f05eb5905e54d44b60f37d11934611c1 AS build
