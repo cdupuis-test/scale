@@ -1,1 +1,1 @@
-FROM kalilinux/kali-rolling
+FROM kalilinux/kali-rolling:latest@sha256:328dffae42f3dc5424e87e21d68d6398fe1d9189d11e1c56102c7a07957c74c5
