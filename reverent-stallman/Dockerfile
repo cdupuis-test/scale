@@ -1,1 +1,1 @@
-FROM centos:8.3.2011
+FROM centos:8.3.2011@sha256:5528e8b1b1719d34604c87e11dcd1c0a20bedf46e83b5632cdeac91b8c04efc1
