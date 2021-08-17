@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/istio-samples/helloserver/loadgen-base as final
+FROM gcr.io/google-samples/istio-samples/helloserver/loadgen-base:latest@sha256:e03a9be55c13d9ba664acac770942ae6a7bc33e790ae94a366654303a7d55bfb as final
