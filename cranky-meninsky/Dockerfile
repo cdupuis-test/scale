@@ -1,1 +1,1 @@
-FROM frolvlad/alpine-glibc:alpine-3.11_glibc-2.31
+FROM frolvlad/alpine-glibc:alpine-3.11_glibc-2.31@sha256:cbecf20166682ba1f3efa051020202a0fbaf63f340c23f2dfa033effc12e5888
