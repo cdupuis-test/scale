@@ -1,1 +1,1 @@
-FROM node:alpine as frontend
+FROM node:alpine@sha256:2d7a22f6d738af0dc829d181e8a95d6239460a185f2dafee531b3c79b6c9334c as frontend
