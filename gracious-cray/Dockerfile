@@ -1,1 +1,1 @@
-FROM alpine:3.4
+FROM alpine:3.4@sha256:b733d4a32c4da6a00a84df2ca32791bb03df95400243648d8c539e7b4cce329c
