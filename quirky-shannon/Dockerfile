@@ -1,1 +1,1 @@
-FROM centos:6 as builder
+FROM centos:6@sha256:dec8f471302de43f4cfcf82f56d99a5227b5ea1aa6d02fa56344986e1f4610e7 as builder
