@@ -1,1 +1,1 @@
-FROM python:3.6.6
+FROM python:3.6.6@sha256:a2e09f0ff0b5b882f372d78be242dffe2e89ccf6273d86cf8f60fcc751741bde
