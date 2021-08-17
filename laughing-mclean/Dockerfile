@@ -1,1 +1,1 @@
-FROM tinkerpop/gremlin-server
+FROM tinkerpop/gremlin-server:latest@sha256:2f032dc74d3c2e54ea217064db330855e23931da5fc8ad5e561d274db8cf543a
