@@ -1,1 +1,1 @@
-FROM adoptopenjdk:8u282-b08-jdk-openj9-0.24.0-focal
+FROM adoptopenjdk:8u282-b08-jdk-openj9-0.24.0-focal@sha256:8d152d37d3d932edcbdc146936a212f16b0818c389302325081b0551fef5bec5
