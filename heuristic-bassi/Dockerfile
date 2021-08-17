@@ -1,1 +1,1 @@
-FROM oraclelinux:7.3
+FROM oraclelinux:7.3@sha256:1b8d2fe1650d20f74d3ac613e2aa2ab4394d5c1698ca1d64d567efc84604e0cd
