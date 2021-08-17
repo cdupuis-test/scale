@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/minideb:buster
+FROM bitnami/minideb:buster@sha256:6cea85cd20400762e1d66aeb057e444f29e331b974faef9c221b5dba4cd37a30
