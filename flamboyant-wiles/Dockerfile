@@ -1,1 +1,1 @@
-FROM openjdk:7-jre
+FROM openjdk:7-jre@sha256:39f17a9de28890cef0d1d84e00c67977679f762993c1d1c2eda3dffe558de378
