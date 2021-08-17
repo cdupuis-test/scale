@@ -1,1 +1,1 @@
-FROM python:3.8-windowsservercore
+FROM python:3.8-windowsservercore@sha256:fe99e6d35dca1e9896520ca7c5853e765b32cadb1f86f9d3f35f43ebf7566276
