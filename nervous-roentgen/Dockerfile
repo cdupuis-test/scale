@@ -1,1 +1,1 @@
-FROM docker.io/library/busybox AS test
+FROM library/busybox:latest@sha256:0f354ec1728d9ff32edcd7d1b8bbdfc798277ad36120dc3dc683be44524c8b60 AS test
