@@ -1,1 +1,1 @@
-FROM openjdk:11-jre
+FROM openjdk:11-jre@sha256:b25d05fbe423b5b0f88fc2f253d5464e07210d061c5538de4766a1a3f2cfb70f
