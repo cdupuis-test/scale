@@ -1,1 +1,1 @@
-FROM ubuntu:18.04 AS build
+FROM ubuntu:18.04@sha256:7bd7a9ca99f868bf69c4b6212f64f2af8e243f97ba13abb3e641e03a7ceb59e8 AS build
