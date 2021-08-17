@@ -1,1 +1,1 @@
-FROM debian:stable
+FROM debian:stable@sha256:1e15f60366f3abf803e500d756a90455daf8fb3b93d19a77ee84c312ddb0b980
