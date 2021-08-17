@@ -1,1 +1,1 @@
-FROM maven:3-jdk-8-alpine
+FROM maven:3-jdk-8-alpine@sha256:16691dc7e18e5311ee7ae38b40dcf98ee1cfe4a487fdd0e57bfef76a0415034a
