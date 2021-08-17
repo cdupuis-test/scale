@@ -1,1 +1,1 @@
-FROM alpine:3.12 as secretless-broker
+FROM alpine:3.12@sha256:de25c7fc6c4f3a27c7f0c2dff454e4671823a34d88abd533f210848d527e0fbb as secretless-broker
