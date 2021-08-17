@@ -1,1 +1,1 @@
-FROM debian:latest
+FROM debian:latest@sha256:38988bd08d1a5534ae90bea146e199e2b7a8fca334e9a7afe5297a7c919e96ea
