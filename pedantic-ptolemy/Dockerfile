@@ -1,1 +1,1 @@
-FROM google/cloud-sdk:241.0.0
+FROM google/cloud-sdk:241.0.0@sha256:3b77ee8bfa6a2513fb6343cfad0dd6fd6ddd67d0632908c3a5fb9b57dd68ec1b
