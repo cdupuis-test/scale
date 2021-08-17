@@ -1,1 +1,1 @@
-FROM google/cloud-sdk:alpine
+FROM google/cloud-sdk:alpine@sha256:eb9fa909632cb211eafb02c41b565c0f87baebf56df8434bf4c93c3ec7510987
