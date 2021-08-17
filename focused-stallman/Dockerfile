@@ -1,1 +1,1 @@
-FROM adoptopenjdk:11.0.10_9-jdk-hotspot-windowsservercore-1809
+FROM adoptopenjdk:11.0.10_9-jdk-hotspot-windowsservercore-1809@sha256:df1a139fe338aa7c17be9f7bf237b02b10afc19289537d4d05728af615830119
