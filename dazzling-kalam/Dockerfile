@@ -1,1 +1,1 @@
-FROM python:3
+FROM python:3@sha256:356d9aab9ff10af5d5f3e27dbe1aa83b4333c0deb164559fcc65093ce0ab5052
