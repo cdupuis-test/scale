@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:latest
+FROM jenkins/jenkins:latest@sha256:61c0370cf163087387eaf9571b1a547fdb305648cd1bb96fb28155c424ef0d12
