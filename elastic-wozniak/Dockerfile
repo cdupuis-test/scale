@@ -1,1 +1,1 @@
-FROM cyberark/ubuntu-ruby-fips:1.0.0
+FROM cyberark/ubuntu-ruby-fips:1.0.0@sha256:b57ebbe3c9a458555a253af96bcbfa4c4e289d60b51ce80bc7c6ebd443644900
