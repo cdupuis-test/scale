@@ -1,1 +1,1 @@
-FROM php:alpine
+FROM php:alpine@sha256:1c4e3649aac88bbcb8ebcfc3dc6bde53f6246dcf02ddd7dd4db5e4ba22024d52
