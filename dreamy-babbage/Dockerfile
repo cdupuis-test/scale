@@ -1,1 +1,1 @@
-FROM qilingframework/qiling:1.2.1
+FROM qilingframework/qiling:1.2.1@sha256:1f8fb66287549444bb70d297ad065b1e0312685ec8ba2ede41f445e3e4cb6055
