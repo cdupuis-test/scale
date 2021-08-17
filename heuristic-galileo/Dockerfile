@@ -1,1 +1,1 @@
-FROM photon:4.0
+FROM photon:4.0@sha256:f73e68b63387bac654d0b0c8708cc22503af18045d0857f4533b7d411dba0e3a
