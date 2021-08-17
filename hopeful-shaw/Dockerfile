@@ -1,1 +1,1 @@
-FROM golang:1.14.2 as builder
+FROM golang:1.14.2@sha256:1bd634c5a72bfa7fb48d54e37dd5d8174161bd6ca601b7d132c7b68eaf513c6b as builder
