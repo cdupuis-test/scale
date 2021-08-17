@@ -1,1 +1,1 @@
-FROM gcr.io/oss-vdb/worker
+FROM gcr.io/oss-vdb/worker:latest@sha256:3335e092b1ccf8f9c2e589aed23d0694a12b64f239105e6fbb7ac16f26bcc60b
