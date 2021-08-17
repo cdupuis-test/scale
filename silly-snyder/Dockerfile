@@ -1,1 +1,1 @@
-FROM golang:1.16-buster as gobuild
+FROM golang:1.16-buster@sha256:573c86e02a9944c12be021f4f5cf8b518cb03c7f3b4de5d732032969a2e8ab93 as gobuild
