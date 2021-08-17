@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.0
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.0@sha256:559b6a8efaff85116a01db6047cd91aaf1b5d6d425c575f87224a6c3d9ff9d23
