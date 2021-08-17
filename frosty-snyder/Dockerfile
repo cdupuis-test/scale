@@ -1,1 +1,1 @@
-FROM gentoo/stage3-amd64
+FROM gentoo/stage3-amd64:latest@sha256:b621d719f8557e7b9fd312bb39385e54bcfc7942addbb45f722a76a75e3d08ba
