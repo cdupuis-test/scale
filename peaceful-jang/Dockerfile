@@ -1,1 +1,1 @@
-FROM mist/gocky:v0-7-1
+FROM mist/gocky:v0-7-1@sha256:6783f52a4cd9c8636ecdc4b6242c34e2245fb1f57e9a494596ef9dcb1e7a1c87
