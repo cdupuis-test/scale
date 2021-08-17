@@ -1,1 +1,1 @@
-FROM envoyproxy/envoy-alpine-dev:latest
+FROM envoyproxy/envoy-alpine-dev:latest@sha256:91f3de1faba5c5acb6c5a3c0f5c93d9cc54c52224fa99794e7942a27ce705089
