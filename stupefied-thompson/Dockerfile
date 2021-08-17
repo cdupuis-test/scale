@@ -1,1 +1,1 @@
-FROM friendsofgo/killgrave:0.4.0
+FROM friendsofgo/killgrave:0.4.0@sha256:c7f7f161577ca54216af70b6aaf6053de35d72976780abd0ff283c5190364006
