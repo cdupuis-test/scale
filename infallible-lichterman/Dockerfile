@@ -1,1 +1,1 @@
-FROM node:12-alpine
+FROM node:12-alpine@sha256:372e5cc17da5baedf302643c3bb54283dac990942fc816d9f7c12565e89c3265
