@@ -1,1 +1,1 @@
-FROM opensuse/leap:latest
+FROM opensuse/leap:latest@sha256:164706b456168a6e7cd8da42ff7184a460bd0221903d93d5d01cda5e10122c00
