@@ -1,1 +1,1 @@
-FROM registry.centos.org/centos/centos:centos7 AS base
+FROM registry.centos.org/centos/centos:centos7@sha256:56f47612b54203fb60e024eeea4617457065c5b3141e591c428084ab64fe4326 AS base
