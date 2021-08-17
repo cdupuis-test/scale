@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/base-image AS base-image
+FROM gcr.io/fuzzbench/base-image:latest@sha256:4c3277de971c01ce4dba7f1dda5319408883e61e37adc2e73613b8bb81e251b8 AS base-image
