@@ -1,1 +1,1 @@
-FROM jupyter/minimal-notebook:latest
+FROM jupyter/minimal-notebook:latest@sha256:d8fb0d58d0b40e4d00c87f881e561847290360bff38f123ccc31da7c261e2b0e
