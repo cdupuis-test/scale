@@ -1,1 +1,1 @@
-FROM adoptopenjdk/openjdk11:jdk-11.0.11_9-debian
+FROM adoptopenjdk/openjdk11:jdk-11.0.11_9-debian@sha256:0140ebc813510bd628653d517ebf8ce23e80b6c7d7c899813584688940b56661
