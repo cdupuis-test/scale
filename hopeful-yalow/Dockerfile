@@ -1,1 +1,1 @@
-FROM jenkins/openjdk:11-hotspot-windowsservercore-ltsc2019
+FROM jenkins/openjdk:11-hotspot-windowsservercore-ltsc2019@sha256:a97105d81dba51d37e82ac936711138091601a1e00eae78525b23aa033ac45a4
