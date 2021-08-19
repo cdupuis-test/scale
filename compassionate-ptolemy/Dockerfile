@@ -1,1 +1,1 @@
-FROM node:12.13.0 as base
+FROM node:12.13.0@sha256:fc6c1371e3a0883f17e34492bcaffb4d8ad986ebb4a5eeafa8817bd425446566 as base
