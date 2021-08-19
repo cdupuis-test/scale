@@ -1,1 +1,1 @@
-FROM ducouloa/ml4ir:0.1
+FROM ducouloa/ml4ir:0.1@sha256:d8b195c25fa00e0266b5fdc4684513629cb928931f1b8bec04b694ddb5ccfe21
