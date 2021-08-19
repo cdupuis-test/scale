@@ -1,1 +1,1 @@
-FROM docker.io/library/centos:8 as rpm
+FROM library/centos:8@sha256:5528e8b1b1719d34604c87e11dcd1c0a20bedf46e83b5632cdeac91b8c04efc1 as rpm
