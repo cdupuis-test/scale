@@ -1,1 +1,1 @@
-FROM node:alpine as builder
+FROM node:alpine@sha256:597864180891b2498e104ace823507882aa9ae132115af63dd8fc611bb300984 as builder
