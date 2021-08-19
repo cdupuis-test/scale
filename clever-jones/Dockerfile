@@ -1,1 +1,1 @@
-FROM nvidia/cuda:9.0-base AS gpu
+FROM nvidia/cuda:9.0-base@sha256:c8faefab71dabdffa31dcf411bd6df072e3d9a4a54d49d46a993b4a945b9d37f AS gpu
