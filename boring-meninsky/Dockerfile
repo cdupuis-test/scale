@@ -1,1 +1,1 @@
-FROM adoptopenjdk:16-jre
+FROM adoptopenjdk:16-jre@sha256:9b50a7d84dece190026615fb747d8c18534d862400db4e31e6b7b1986065da71
