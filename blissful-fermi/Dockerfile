@@ -1,1 +1,1 @@
-FROM adoptopenjdk:11-jre-hotspot
+FROM adoptopenjdk:11-jre-hotspot@sha256:155e62a1098e4fc61516d48c61d4d6b4604fa76854489b1506e4ad022ed2e607
