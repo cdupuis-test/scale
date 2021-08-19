@@ -1,1 +1,1 @@
-FROM golang:1.13-alpine3.11 AS build-env
+FROM golang:1.13-alpine3.11@sha256:ec6dcf15073c307fbcfc3149efe8835f3ec2bd0a0cb49aaaee4949cfc4c86b65 AS build-env
