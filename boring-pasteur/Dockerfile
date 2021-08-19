@@ -1,1 +1,1 @@
-FROM haskell:8.2.2 as builder
+FROM haskell:8.2.2@sha256:cc90210b77dd67c530a0ce830583a8d038b47e607a63e56a0e68402c4317fdb6 as builder
