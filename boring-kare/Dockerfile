@@ -1,1 +1,1 @@
-FROM centos
+FROM centos:latest@sha256:5528e8b1b1719d34604c87e11dcd1c0a20bedf46e83b5632cdeac91b8c04efc1
