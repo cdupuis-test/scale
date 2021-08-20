@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS runtime
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1@sha256:9280563285e34929fdae56b8759d8050169b3ce125a5dced64945b3b51e79918 AS runtime
