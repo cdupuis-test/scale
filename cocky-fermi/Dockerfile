@@ -1,1 +1,1 @@
-FROM clojure
+FROM clojure:latest@sha256:4b384ec08bad773b8d7ab4b0aea7dee8480a8c2d3d6c5aff9716259b27444f99
