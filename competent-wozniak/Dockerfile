@@ -1,1 +1,1 @@
-FROM debian:buster AS builder
+FROM debian:buster@sha256:e2fe52e17d649812bddcac07faf16f33542129a59b2c1c59b39a436754b7f146 AS builder
