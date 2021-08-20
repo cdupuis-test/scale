@@ -1,1 +1,1 @@
-FROM mist/wsproxy:v0-1-0
+FROM mist/wsproxy:v0-1-0@sha256:6ba94cbbf126e4f8986f24d2673fb0600cd5d1f37130ac2242e9e882f39a5c4b
