@@ -1,1 +1,1 @@
-FROM gcr.io/syzkaller/env
+FROM gcr.io/syzkaller/env:latest@sha256:27469f8c81dede6d338cda80e2ea1a59df051f63ff71d810882126c926b4b1c6
