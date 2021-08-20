@@ -1,1 +1,1 @@
-FROM java:8-jdk-alpine
+FROM java:8-jdk-alpine@sha256:d49bf8c44670834d3dade17f8b84d709e7db47f1887f671a0e098bafa9bae49f
