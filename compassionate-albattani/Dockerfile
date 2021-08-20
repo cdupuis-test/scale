@@ -1,1 +1,1 @@
-FROM tiangolo/uwsgi-nginx-flask:python3.8
+FROM tiangolo/uwsgi-nginx-flask:python3.8@sha256:9e1fcbb85a51dc3105f020cd7d81031e47b8dca9cfdd931adeff7d205493b59d
