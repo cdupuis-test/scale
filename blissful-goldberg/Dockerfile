@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1@sha256:aa984bf37de864afe9f34bc80e42412dd95702b94731a481821eeae364df77ae
