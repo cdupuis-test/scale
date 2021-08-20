@@ -1,1 +1,1 @@
-FROM composer as composer
+FROM composer:latest@sha256:0d86184f928c117a601f21d60bc6138b1aa18b20ecbe3a1e7eb3dcbc30434cde as composer
