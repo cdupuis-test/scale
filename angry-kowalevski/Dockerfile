@@ -1,1 +1,1 @@
-FROM debian:stretch-20201209 AS toolchain
+FROM debian:stretch-20201209@sha256:49c93d2ea3d40a86c1f69793cfff65dd55fbf587401243ebba0e40b260ec9a0c AS toolchain
