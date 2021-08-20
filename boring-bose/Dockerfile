@@ -1,1 +1,1 @@
-FROM python as nodejs-requirements
+FROM python:latest@sha256:8f642902ba368481c9aca0a100f08daf93793c6fa14d3002253ea3cd210383a7 as nodejs-requirements
