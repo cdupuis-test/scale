@@ -1,1 +1,1 @@
-FROM haproxy:1.7-alpine
+FROM haproxy:1.7-alpine@sha256:c61e140064cd6af938e49315547b854fa843509ad4e2660e31e259df40bc3d47
