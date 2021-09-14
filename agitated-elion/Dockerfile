@@ -1,1 +1,1 @@
-FROM tiangolo/uvicorn-gunicorn-fastapi:python3.7
+FROM tiangolo/uvicorn-gunicorn-fastapi:python3.7@sha256:8efb7b7c2419090159955d01c9978b2d59ef0980605f237673d7ae1ed5d76b4a
