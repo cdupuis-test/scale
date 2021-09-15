@@ -1,1 +1,1 @@
-FROM circleci/node:12-browsers
+FROM circleci/node:12-browsers@sha256:c53391a66fe5c995f8533afee94f63d20488420bf0d6914a0ef0efab9a64ab3b
