@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-alpine
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-alpine@sha256:b43d50a62d00c19ce3a1851f61bf1cb1d0d86108ab62022367388f69277edf9d
