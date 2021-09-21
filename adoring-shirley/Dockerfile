@@ -1,1 +1,1 @@
-FROM govim/govim:latest-vim
+FROM govim/govim:latest-vim@sha256:799eb9f80ccdcc83cc7a73d04bf7446ac9f1960578126507ab2f7cdea33b03e2
