@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base-debian10:nonroot
+FROM gcr.io/distroless/base-debian10:nonroot@sha256:32da88da8452d3985f255ab8809fb55b018cf326f121fc02d7b0c115afeb0d1d
