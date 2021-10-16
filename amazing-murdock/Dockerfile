@@ -1,1 +1,1 @@
-FROM ubuntu:xenial as smallbank-workload-builder
+FROM ubuntu:xenial@sha256:0f71fa8d4d2d4292c3c617fda2b36f6dabe5c8b6e34c3dc5b0d17d4e704bd39c as smallbank-workload-builder
