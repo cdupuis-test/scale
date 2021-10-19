@@ -1,1 +1,1 @@
-FROM docker:20.10-rc-dind
+FROM docker:20.10-rc-dind@sha256:4891561b3f9b41e4cf68eae73192efb192a92501e1882c7b7b03c40a58efd53d
